@@ -1,5 +1,3 @@
-package CollectionF;
-
 public class MeanMedianModeRange 
 {
 
